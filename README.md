@@ -18,9 +18,11 @@ If you encounter any error **model does not exist**:
 The Engines endpoints are deprecated.
 Please use their replacement, Models, instead
 
-Visit links mentioned below:
+**Visit links mentioned below:
+**
 
 https://stackoverflow.com/questions/75322813/openai-gpt-3-api-error-that-model-does-not-exist
+
 https://platform.openai.com/docs/api-reference/engines
 
 
