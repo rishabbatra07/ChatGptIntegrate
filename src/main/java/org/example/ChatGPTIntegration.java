@@ -21,7 +21,7 @@ public class ChatGPTIntegration {
         Request request = new Request.Builder()
                 .url(OPENAI_API_URL)
                 .post(body)
-                .addHeader("Authorization", "Bearer " + "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")
+                .addHeader("Authorization", "Bearer " + "your_api_key")
                 .build();
 
         // Send the request and retrieve the response
